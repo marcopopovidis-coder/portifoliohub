@@ -18,5 +18,4 @@ Marque **Aprovado** somente após executar o teste no seu ambiente e, para a ent
 ## Evidências
 - Repositório: https://github.com/marcopopovidis-coder/portifoliohub
 - Site publicado: https://github.com/marcopopovidis-coder/portifoliohub
-- Prints dos testes: [INSERIR LOCAL/ANEXOS]
 - Data dos testes: 19/10/2026
