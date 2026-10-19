@@ -1,6 +1,6 @@
 # PortfolioHUB — Implantação com GitHub e Google Gemini
 
-> Projeto acadêmico de demonstração para a entrega final do Bootcamp I. Ajuste os campos entre colchetes e substitua os exemplos pelos dados reais do seu repositório antes de entregar.
+
 
 ## 1. Objetivo
 Implantar uma estrutura de portfólio digital para apresentar projetos, integrando o versionamento pelo Git/GitHub e usando o Google Gemini como apoio ao planejamento, documentação e revisão de segurança.
