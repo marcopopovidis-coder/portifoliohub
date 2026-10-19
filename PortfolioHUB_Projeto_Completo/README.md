@@ -78,4 +78,4 @@ Esta entrega contém uma interface estática demonstrativa. Login, banco de dado
 - Estudante: Marco Antônio Nista Popovidis
 - Turma: Turma B / Eng. de Software
 - Repositório: https://github.com/marcopopovidis-coder/portifoliohub
-- Data: [DATA]
+- Data: [19/10/26]
